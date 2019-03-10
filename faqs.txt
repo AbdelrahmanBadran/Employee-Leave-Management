@@ -1,0 +1,6 @@
+	Questions                :                 Answers
+
+What is the leave policy?        : Exceeding limmit per year is not allowed
+Is This A New System For leave?  : Yes, No more Signing out
+Is the this system working?      : Yes it is
+Check Leave applications status? : It's in lecturers Menu to view

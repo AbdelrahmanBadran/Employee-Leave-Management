@@ -1,0 +1,13 @@
+  Date    : Holiday Details
+
+05/02/2018 : Traditional Day
+03/04/2018 : Uni Day Off
+02/06/2018 : Women's Day
+23/07/2018 : National Day
+09/08/2018 : Valentine's Day
+12/09/2018 : Labour Day
+17/11/2018 : Traditional Day
+30/12/2018 : Military Day
+04/05/2018 : Public Holiday
+23/04/2018 : public day
+07/05/2018 : Human Resource Birthday
